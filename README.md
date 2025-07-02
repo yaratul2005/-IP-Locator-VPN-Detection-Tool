@@ -2,7 +2,7 @@
 
 A sleek PHP-based tool to locate a user's IP address, determine their geolocation, and detect VPN/proxy usage in real-time.
 
-![Screenshot](https://ibb.co/MkS8RbKC) <!-- Replace with your own screenshot -->
+[![Screenshot-20250702-130631-Chrome.jpg](https://i.postimg.cc/zX0Cm400/Screenshot-20250702-130631-Chrome.jpg)](https://postimg.cc/zVHbK2mg) <!-- Replace with your own screenshot -->
 
 ---
 
